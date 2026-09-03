@@ -2,6 +2,11 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahid%20Chowdhury&fontSize=42&fontAlignY=32&desc=Learning%20%7C%20Building%20%7C%20Turning%20ideas%20into%20products&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
 </div>
+<img
+  width="100%"
+  src="https://github.pumbas.net/api/contributions/wahidc?days=60"
+/>
+
 
 
 <div align="center">
@@ -130,10 +135,22 @@ const wahid = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="60%" src="https://streak-stats.demolab.com?user=wahidc&theme=radical&hide_border=true" />
-<br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wahidc&theme=react-dark&hide_border=true&area=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wahidc&theme=github-dark-blue&hide_border=true)](https://github.com/wahidc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
