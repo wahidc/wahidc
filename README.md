@@ -4,7 +4,7 @@
 </div>
 <img
   width="100%"
-  src="https://github.pumbas.net/api/contributions/wahidc?days=60"
+  src="https://github.pumbas.net/api/contributions/wahidc?days=30"
 />
 
 
