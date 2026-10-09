@@ -23,8 +23,8 @@
 
 ---
 
-## 🎯 About Me
-
+<!-- ## 🎯 About Me -->
+<!--
 ```typescript
 const wahid = {
     location: "Bangladesh",
@@ -35,6 +35,7 @@ const wahid = {
     openTo: ["Collaborations", "Freelance Projects", "Learning Opportunities"]
 };
 ```
+-->
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/wahidc/wahidc/main/EVE%20Saying%20Hello.svg">
 
 
