@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahid%20Chowdhury&fontSize=42&fontAlignY=32&desc=Learning%20%7C%20Building%20%7C%20Turning%20ideas%20into%20products&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Wahid%20Chowdhury&fontSize=42&fontAlignY=32animation=twinkling" width="100%" />
 </div>
 <img
   width="100%"
@@ -35,18 +35,8 @@ const wahid = {
     openTo: ["Collaborations", "Freelance Projects", "Learning Opportunities"]
 };
 ```
-
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/wahidc/wahidc/main/EVE%20Saying%20Hello.svg">
 
-### 🚀 What Drives Me
-
-- 💡Building software that solves real-world problems.
-- 📖 Learning something new everyday and improving continously.
-- 🧩 Tackling challenging coding and algorithmic problems
-- ⭐ Writing clean, efficient, and maintainable code.
-- 🤝 Collaborating, sharing knowledge, and growing with the developer community.
-
-<br clear="right"/>
 
 
 
@@ -105,10 +95,7 @@ const wahid = {
 ---
 -->
 
----
 
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -128,89 +115,15 @@ const wahid = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-</div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wahidc&theme=github-dark-blue&hide_border=true)](https://github.com/wahidc)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Wahid's Journey))
-    Learning
-      Flutter
-      Dart
-      Firebase
-      AI Integration
-      UI/UX Design
-    Building
-      Mobile Apps
-      AI-Powered Apps
-      Portfolio Projects
-      Real-World Solutions
-    Growing
-      Open Source (Soon!)
-      YouTube Content
-      Tech Community
-    Future
-      Full-Stack Development
-      AI Products
-      Global Impact
-```
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always excited to connect with fellow developers, work on interesting projects! 
-
-### 📬 Reach Out
-
-<!--[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-"url"-00D9FF?style=for-the-badge&labelColor=black)](url) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/mdwahidchowdhury)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:w.chowdhury.contact@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)](https://youtube.com/@Wahid_Chowdhury_)
-[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@wahid_chowdhury_r7)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079950774323)
-
-</div>
-
-### 💼 Open For
+<!--
+### Open For
 <div align="center">
 
 Full-Stack Development Projects | Innovative Project Ideas | Open Source Collaboration
 
----
-
-### 🔥 Great products start with small commits.
-
 **Thanks for visiting! Let's build something amazing together**
+-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
